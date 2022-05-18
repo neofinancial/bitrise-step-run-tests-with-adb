@@ -6,9 +6,9 @@ description: |
   Run tests from the emulator command-line shell with Android Debug Bridge.
 
   When you run tests from the command-line with Android Debug Bridge (adb), you get more options for choosing the tests to run than with any other method. You can select individual test methods, filter tests according to their annotation, or specify testing options. Since the test run is controlled entirely from a command-line, you can customize your testing with shell scripts in various ways.
-website: https://github.com/DanielJette/bitrise-step-run-tests-with-adb
-source_code_url: https://github.com/DanielJette/bitrise-step-run-tests-with-adb
-support_url: https://github.com/DanielJette/bitrise-step-run-tests-with-adb/issues
+website: https://github.com/neofinancial/bitrise-step-run-tests-with-adb
+source_code_url: https://github.com/neofinancial/bitrise-step-run-tests-with-adb
+support_url: https://github.com/neofinancial/bitrise-step-run-tests-with-adb/issues
 host_os_tags:
   - osx-10.10
   - ubuntu-16.04
